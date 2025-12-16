@@ -1,0 +1,5 @@
+Average Precision (AP): 0.7060
+PR-AUC (Trapezoidal):   0.7035
+Best F1 Score:          0.6261
+Best Threshold:        0.9342
+Labels distribution:    [78 47]

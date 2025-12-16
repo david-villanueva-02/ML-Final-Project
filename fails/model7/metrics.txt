@@ -1,0 +1,3 @@
+AUC-PR: 0.7777
+Best F1: 0.7143
+Best Threshold: 0.5131
